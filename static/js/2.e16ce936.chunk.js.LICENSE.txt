@@ -25,7 +25,7 @@ object-assign
 */
 
 /*!
- * ScrollTrigger 3.6.0
+ * ScrollToPlugin 3.6.0
  * https://greensock.com
  *
  * @license Copyright 2008-2021, GreenSock. All rights reserved.
